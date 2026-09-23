@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.DS_Store
+
+# Local build outputs
+class3/deque
+class3/func
+class3/remove_by_set
+class4/list
+class4/reverse_linkedlist
+class5/name
+class7/backt
+class8/hash
+
+# Local editor/agent configuration
+.claude/settings.local.json
